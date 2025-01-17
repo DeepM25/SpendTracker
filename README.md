@@ -1,0 +1,1 @@
+This Python program tracks a user's monthly income and expenses, calculates the monthly balance, and visualizes the financial data using a bar plot. It also highlights negative spending with red bars and provides a yearly summary of total income, expenses, and savings.
